@@ -1,5 +1,7 @@
 # Scripts para criar 40 Alertas no SQL Server
 
+![Banner](./imgs/alertas.JPG)
+
 **For english, [click here](README.en.md)**
 
 Fala Pessoal,
